@@ -1,6 +1,6 @@
 import java.util.Scanner;
    //Crie um programa Java que receba dois números e exiba o maior
-public class maiorNumero {
+public class exercicioum {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
