@@ -1,7 +1,7 @@
 import java.util.Scanner;
 //Escreva um método que receba um número e retorne se ele é primo
 
-public class exerciciotres {
+public class exercicio_tres {
 
     public static boolean ehPrimo(int numero) {
         if (numero <= 1) {
